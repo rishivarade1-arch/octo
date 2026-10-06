@@ -1,0 +1,6 @@
+{
+  "name": "RoadWatch AI",
+  "description": "Public infrastructure problem reporting app with automated GPS detection, mobile camera capture, priority-ranked civic hazard dashboard, and live municipal map.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
